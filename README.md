@@ -1,11 +1,11 @@
 # Bitacora Random
 Extras del Libro: Bitácora Random
 
-## Sitios para aprender a programar:
+## Sitios para Aprender a Programar:
 
-## Escuelas de hackers:
+## Escuelas de Hackers:
 
-## Empresas internships:
+## Empresas Internships:
 
 ## Aprender Diseño:
 
