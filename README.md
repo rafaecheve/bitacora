@@ -10,7 +10,7 @@ Extras del Libro: Bitácora Random
 - [https://www.coursera.org](https://www.coursera.org)
 - [https://www.codeschool.com](https://www.codeschool.com)
 
-## Escuelas de Hackers:
+## Escuelas de Hackers preseciales:
 
 - [http://desafiolatam.com/](http://desafiolatam.com/)
 - [http://www.devf.mx](http://www.devf.mx)
@@ -25,6 +25,8 @@ Extras del Libro: Bitácora Random
 ## Aprender Diseño:
 
 - [http://trydesignlab.com](http://trydesignlab.com)
+
+
 
 
 En constante actualización :]
