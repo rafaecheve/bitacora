@@ -1,4 +1,5 @@
 # Bitácora Random
+
 Extras del Libro: Bitácora Random
 
 ## Sitios para Aprender a Programar:
