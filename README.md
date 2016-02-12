@@ -15,17 +15,17 @@ Extras del Libro: Bitácora Random
 - [http://desafiolatam.com/](http://desafiolatam.com/)
 - [http://www.devf.mx](http://www.devf.mx)
 - [http://hackschool.com.mx](http://hackschool.com.mx)
+- [http://www.makeitreal.camp](http://www.makeitreal.camp)
+
  
 ## Empresas Internships:
 
 - [http://nearsoft.com](http://nearsoft.com)
-- 
 
 ## Aprender Diseño:
 
 - [http://trydesignlab.com](http://trydesignlab.com)
-- 
 
 
-
+En constante actualización :]
 
