@@ -1,11 +1,14 @@
 # Bitácora Random
 
+!(http://rafaecheve.com/wp-content/uploads/2016/02/facebook_image_6-copy-49-1024x768.png")
+
 Extras del Libro: Bitácora Random
 
 ## Sitios para Aprender a Programar:
 
 - [http://codigofacilito.com](http://codigofacilito.com)
 - [https://platzi.com](https://platzi.com)
+- [http://desarrolloweb.com](http://desarrolloweb.com)
 - [https://www.khanacademy.org](https://www.khanacademy.org)
 - [https://www.codecademy.com](https://www.codecademy.com)
 - [http://www.lynda.com](http://www.lynda.com)
