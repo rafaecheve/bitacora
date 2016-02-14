@@ -39,6 +39,12 @@ Extras del Libro: Bitácora Random
 
 - [http://nearsoft.com](http://nearsoft.com)
 
+## Encuentra Oportunidades:
+
+- [http://donchambitas.com](http://donchambitas.com)
+- [https://empleosti.com.mx](https://empleosti.com.mx)
+- [http://sgtalento.com](http://sgtalento.com)
+
 ## Aprender Diseño:
 
 - [http://trydesignlab.com](http://trydesignlab.com)
