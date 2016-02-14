@@ -7,9 +7,12 @@ Extras del Libro: Bitácora Random
 - [http://codigofacilito.com](http://codigofacilito.com)
 - [https://platzi.com](https://platzi.com)
 - [https://www.khanacademy.org](https://www.khanacademy.org)
+- [https://www.codecademy.com](https://www.codecademy.com)
 - [http://www.lynda.com](http://www.lynda.com)
 - [https://www.coursera.org](https://www.coursera.org)
 - [https://www.codeschool.com](https://www.codeschool.com)
+- [http://www.codewars.com](http://www.codewars.com)
+- [http://www.html5rocks.com/es/](http://www.html5rocks.com/es/)
 
 ## Escuelas de Hackers preseciales:
 
