@@ -13,6 +13,8 @@ Extras del Libro: Bitácora Random
 - [https://www.codeschool.com](https://www.codeschool.com)
 - [http://www.codewars.com](http://www.codewars.com)
 - [http://www.html5rocks.com/es/](http://www.html5rocks.com/es/)
+- [http://www.w3schools.com](http://www.w3schools.com)
+- [https://code.org](https://code.org)
 
 ## Escuelas de Hackers preseciales:
 
@@ -21,7 +23,18 @@ Extras del Libro: Bitácora Random
 - [http://hackschool.com.mx](http://hackschool.com.mx)
 - [http://www.makeitreal.camp](http://www.makeitreal.camp)
 
- 
+## Mujeres:
+
+- [http://epicqueen.com](http://epicqueen.com)
+- [https://djangogirls.org](https://djangogirls.org)
+- [http://railsgirls.com](http://railsgirls.com)
+
+## Lenguajes:
+
+- [https://www.javascript.com](https://www.javascript.com)
+- [https://www.python.org](https://www.python.org)
+- [https://www.ruby-lang.org](https://www.ruby-lang.org)
+
 ## Empresas Internships:
 
 - [http://nearsoft.com](http://nearsoft.com)
