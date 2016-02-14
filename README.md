@@ -1,6 +1,7 @@
 # Bitácora Random
 
-!("http://rafaecheve.com/wp-content/uploads/2016/02/facebook_image_6-copy-49-1024x768.png")
+
+![bitacora](http://rafaecheve.com/wp-content/uploads/2016/02/facebook_image_6-copy-49-1024x768.png)
 
 Extras del Libro: Bitácora Random
 
