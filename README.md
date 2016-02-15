@@ -29,6 +29,7 @@ Extras del Libro: Bitácora Random
 - [http://www.devf.mx](http://www.devf.mx)
 - [http://hackschool.com.mx](http://hackschool.com.mx)
 - [http://www.makeitreal.camp](http://www.makeitreal.camp)
+- [https://www.coderhouse.com](https://www.coderhouse.com)
 
 ## Mujeres:
 
