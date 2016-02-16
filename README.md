@@ -33,6 +33,7 @@ Extras del Libro: Bitácora Random
 
 ## Mujeres:
 
+- [http://codies.org](http://codies.org)
 - [http://epicqueen.com](http://epicqueen.com)
 - [https://djangogirls.org](https://djangogirls.org)
 - [http://railsgirls.com](http://railsgirls.com)
